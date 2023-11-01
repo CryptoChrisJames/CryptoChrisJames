@@ -1,3 +1,4 @@
+![A small reel of films I've produced.](https://content.cryptochrisjames.com/static/github-profile/producer.gif)
 ### Hi there 👋
 
 <!--
