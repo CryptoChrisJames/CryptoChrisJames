@@ -16,8 +16,13 @@ Parallel to my tech career, my passion for music production and audio engineerin
 
 ## [You can see some of my entertainment work here!](https://www.cryptochrisjames.com/ent)
 
-As you can see, my skillset is both broad and robust. However, I've recently become more passionate about finding some area where these two feilds overlap:
+As illustrated in the Venn diagram below, my skillset bridges two dynamic fields: software engineering and the entertainment industry. I am passionate about exploring and contributing to areas where technology enhances the creative process, and vice versa, where creativity influences technological innovation. This intersection is where I find the most excitement and where I aim to make a significant impact.
 
 <div align="center">
     <img alt="Venn Diagram illustrating my target work area" style="width: 80%" src="./Overlap.png"/>
 </div>
+
+With experience in both domains, I'm eager to leverage this unique combination to develop tools, applications, and systems that enhance storytelling, production efficiency, and audience engagement.
+
+# My Vision
+The entertainment industry stands at the cusp of transformation, thanks to recent and upcoming technological advancements. From modern challenges like streamlining AI art production workflows and navigating today's competitive attention economy, to timeless issues like optimizing script breakdowns for production timelines and fostering filmmaker networks, technology offers solutions that can reduce, if not eliminate, these pain points. I am also incredibly passionate about providing opportunites among underrepresented communities, providing the industry with new and refreshing stories to hear. With my blend of tech expertise and deep domain knowledge, I am committed to crafting innovative solutions that address these challenges head-on.
