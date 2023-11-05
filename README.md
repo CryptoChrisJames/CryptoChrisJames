@@ -26,3 +26,5 @@ With experience in both domains, I'm eager to leverage this unique combination t
 
 # My Vision
 The entertainment industry stands at the cusp of transformation, thanks to recent and upcoming technological advancements. From modern challenges like streamlining AI art production workflows and navigating today's competitive attention economy, to timeless issues like optimizing script breakdowns for production timelines and fostering filmmaker networks, technology offers solutions that can reduce, if not eliminate, these pain points. I am also incredibly passionate about providing opportunites among underrepresented communities, providing the industry with new and refreshing stories to hear. With my blend of tech expertise and deep domain knowledge, I am committed to crafting innovative solutions that address these challenges head-on.
+
+![CCJ Footer](/footer.png)
