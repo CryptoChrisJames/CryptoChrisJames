@@ -19,7 +19,7 @@ Parallel to my tech career, my passion for music production and audio engineerin
 As illustrated in the Venn diagram below, my skillset bridges two dynamic fields: software engineering and the entertainment industry. I am passionate about exploring and contributing to areas where technology enhances the creative process, and vice versa, where creativity influences technological innovation. This intersection is where I find the most excitement and where I aim to make a significant impact.
 
 <div align="center">
-    <img alt="Venn Diagram illustrating my target work area" style="width: 80%" src="./Overlap.png"/>
+    <img alt="Venn Diagram illustrating my target work area" style="width: 50%" src="./Overlap.png"/>
 </div>
 
 With experience in both domains, I'm eager to leverage this unique combination to develop tools, applications, and systems that enhance storytelling, production efficiency, and audience engagement.
